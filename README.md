@@ -1,1 +1,1 @@
-This does exactly as the title suggests
+This script does exactly as the title suggests.
