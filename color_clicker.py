@@ -84,8 +84,6 @@ def click_worker(target_color):
         positions = find_all_color_positions(target_color)
         for pos in positions:
             pyautogui.click(pos)
-           # time.sleep(0.01)
-       # time.sleep(0.05)
 
 def method_1():
     print("Press SPACE to start color clicker")
